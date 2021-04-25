@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" x="20" y="20"/><block type="device_forever" x="225" y="20"/><block type="device_acceleration" disabled="true" x="83" y="312"><field name="NAME">Dimension.X</field></block></xml>
