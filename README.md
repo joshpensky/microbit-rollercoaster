@@ -1,5 +1,26 @@
+# microbit-rollercoaster
+
+Building a rollercoaster simulator out of a micro:bit, 2 LEDs, and some cardboard!
 
 > Open this page at [https://joshpensky.github.io/microbit-rollercoaster/](https://joshpensky.github.io/microbit-rollercoaster/)
+
+## 🧱 Physical setup
+To run this project, you'll need a few materials:
+
+- 1 BBC micro:bit
+- 2 ON/ON toggle switches
+- 4 jumper wires
+- 2 yellow LEDs
+- 1 3V coin cell battery
+- copper tape
+- electrical tape
+- cardboard
+- lot of hot glue!
+
+The circuit diagram below shows how to hook up all of the materials:
+
+![Circuit diagram](https://user-images.githubusercontent.com/17488657/116008087-d59c9c00-a5e0-11eb-987d-315933110ec9.png)
+
 
 ## Use as Extension
 
@@ -17,13 +38,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/joshpensky/microbit-rollercoaster** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/joshpensky/microbit-rollercoaster/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
